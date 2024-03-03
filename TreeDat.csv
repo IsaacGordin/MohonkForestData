@@ -1,0 +1,989 @@
+Year,Date.Sampled,Plot.Type,Plot,Tree_#,Quarter,Fork,Species,DBH,Unusual,Status,Crown.Class,Tree.Cond,HWA.Index,EAB.Index,BBD.Index,Foliage.Cond_1,Total.Foliage%_1,Foliage.Cond%_1,Foliage.Cond_2,Total.Foliage%_2,Foliage.Cond%_2,Foliage.Cond_3,Total.Foliage%_3,Foliage.Cond%_3,Decay.Index,Notes
+2018,5/29/2018,Hemlock,1,1,NA,N,Eastern hemlock,31.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,1,NA,N,Eastern hemlock,31.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,90-100,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,2,NA,N,Pignut hickory,30.6,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/2/2022,Hemlock,1,2,NA,N,Pignut hickory,31.8,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,3,NA,N,Tulip poplar,24.3,N,AS,Co-dominant,Healthy,3,NA,NA,Leaf loss,10-50,90-100,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,3,NA,N,Tulip poplar,26.2,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,5/29/2018,Hemlock,1,4,NA,N,Sugar maple,11.5,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,4,NA,N,Sugar maple,12.5,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,5,NA,N,Eastern hemlock,41.4,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/2/2022,Hemlock,1,5,NA,N,Eastern hemlock,42.2,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,6,NA,N,Eastern hemlock,23.0,N,DS,NA,NA,3,NA,NA,Leaf loss,10-50,90-100,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,6,NA,N,Eastern hemlock,22.9,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,7,NA,N,Eastern hemlock,20.7,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/2/2022,Hemlock,1,7,NA,N,Eastern hemlock,20.4,N,AL,Intermediate,HWA/EHS,NA,NA,NA,Holes,90-100,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,8,NA,N,Eastern hemlock,29.5,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,8,NA,N,Eastern hemlock,29.8,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,5/29/2018,Hemlock,1,9,NA,N,Chestnut oak,28.7,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,9,NA,N,Chestnut oak,30.6,N,AS,Dominant,Spongy moth,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,10,NA,N,Chestnut oak,39.3,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/2/2022,Hemlock,1,10,NA,N,Chestnut oak,39.5,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,11,NA,N,Red oak,12.0,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,11,NA,N,Red oak,13.0,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,12,NA,N,White oak,33.6,N,AS,Dominant,Insect damage,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,12,NA,N,White oak,34.8,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,13,NA,N,Red oak,11.5,N,AS,Intermediate,Insect damage,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,13,NA,N,Red oak,11.8,N,AS,Intermediate,Large dead branches/Other,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,14,NA,N,Pignut hickory,36.4,N,AS,Dominant,Insect damage,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,14,NA,N,Pignut hickory,36.9,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,15,NA,N,Eastern hemlock,11.5,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,15,NA,N,Eastern hemlock,11.1,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,5/29/2018,Hemlock,1,16,NA,N,White ash,33.8,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/2/2022,Hemlock,1,16,NA,N,White ash,33.8,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,6/6/2018,Hemlock,2,1,C,N,Red oak,23.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,1,C,N,Red oak,24.5,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,2,D,N,Eastern hemlock,19.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,2,D,N,Eastern hemlock,19.5,N,AS,Intermediate,HWA/EHS/Cankers/Wounds,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,3,A,N,Eastern hemlock,10.4,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,3,A,N,Eastern hemlock,10.5,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,4,A,N,Eastern hemlock,26.1,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Necrosis,50-90,10-50,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,4,A,N,Eastern hemlock,26.4,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Necrosis,50-90,10-50,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,5,A,N,Eastern hemlock,11.4,N,AL,Co-dominant,HWA/EHS,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/8/2022,Hemlock,2,5,A,N,Eastern hemlock,10.9,N,AL,Intermediate,HWA/EHS,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,6/6/2018,Hemlock,2,6,A,N,Eastern hemlock,12.6,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,6,A,N,Eastern hemlock,12.2,N,AS,Intermediate,HWA/EHS,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/6/2018,Hemlock,2,7,B,N,Eastern hemlock,11.2,N,AS,Intermediate,HWA/EHS,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/8/2022,Hemlock,2,7,B,N,Eastern hemlock,11.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,8,B,N,Eastern hemlock,11.4,N,AS,Sub-canopy,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,8,B,N,Eastern hemlock,10.9,N,DB,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,9,B,N,Eastern hemlock,11.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,9,B,N,Eastern hemlock,11.7,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,10,B,N,Chestnut oak,46.7,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,Chlorosis,50-90,10-50,Necrosis,50-90,10-50,NA,NA
+2022,6/8/2022,Hemlock,2,10,B,N,Chestnut oak,47.9,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/6/2018,Hemlock,2,11,B,N,Eastern hemlock,25.3,N,AS,Co-dominant,HWA/EHS,NA,2,NA,Chlorosis,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,11,B,N,Eastern hemlock,25.8,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/6/2018,Hemlock,2,12,B,N,Chestnut oak,27.3,N,DL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,12,B,N,Eastern hemlock,NA,NA,DF,NA,NA,NA,2,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,13,B,N,Eastern hemlock,24.5,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,13,B,N,Eastern hemlock,24.4,N,AS,Co-dominant,HWA/EHS,NA,NA,1,Necrosis,1-10,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,14,C,N,Eastern hemlock,11.3,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/8/2022,Hemlock,2,14,C,N,Eastern hemlock,10.6,N,DS,NA,NA,4,NA,NA,Leaf loss,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,15,C,N,Eastern hemlock,12.0,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,10-50,NA,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,15,C,N,Eastern hemlock,10.7,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,16,C,N,Chestnut oak,40.5,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,16,C,N,Chestnut oak,41.0,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,17,C,N,Eastern hemlock,58.5,N,AS,Dominant,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,17,C,N,Eastern hemlock,NA,NA,NL,NA,NA,4,NA,NA,Leaf loss,10-50,NA,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,18,D,A,Chestnut oak,45.3,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/8/2022,Hemlock,2,18,D,A,Chestnut oak,46.5,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,10-50,NA,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,19,D,A,Chestnut oak,36.5,N,AS,Dominant,Healthy,NA,NA,NA,Necrosis,1-10,1-10,Chlorosis,1-10,90-100,Holes,1-10,10-50,NA,NA
+2022,6/8/2022,Hemlock,2,19,D,A,Chestnut oak,37.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,20,D,N,Red oak,16.4,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/8/2022,Hemlock,2,20,D,N,Red oak,17.2,N,AS,Co-dominant,Cankers/Wounds,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,21,D,N,Red maple,15.3,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/8/2022,Hemlock,2,21,D,N,Red maple,15.4,N,AS,Co-dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/6/2018,Hemlock,2,22,D,N,Chestnut oak,33.7,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/8/2022,Hemlock,2,22,D,N,Chestnut oak,34.3,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/8/2018,Hemlock,3,1,A,N,White oak,45.6,N,AS,Dominant,Insect damage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/10/2022,Hemlock,3,1,A,N,White oak,47.8,N,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,2,A,N,Red oak,54.7,N,AS,Dominant,Insect damage,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,2,A,N,Black oak,55.4,Y,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/8/2018,Hemlock,3,3,A,N,Red maple,13.9,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,3,A,N,Red maple,15.0,N,AS,Co-dominant,Insect damage,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,4,B,N,Eastern hemlock,46.6,N,DL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,4,B,N,Eastern hemlock,47.7,N,DS,NA,NA,NA,NA,NA,Necrosis,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,5,B,N,Eastern hemlock,41.8,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,5,B,N,Eastern hemlock,39.2,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,6,C,N,Eastern hemlock,55.2,N,AS,Dominant,HWA/EHS,NA,NA,NA,Necrosis,1-10,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,6,C,N,Eastern hemlock,56.8,N,AS,Dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,7,C,N,Eastern hemlock,35.9,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,7,C,N,Eastern hemlock,35.7,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,8,C,N,Eastern hemlock,47.9,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,8,C,N,Eastern hemlock,NA,N,DF,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,9,D,N,Red maple,13.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/10/2022,Hemlock,3,9,D,N,Red maple,13.4,N,AS,Intermediate,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/8/2018,Hemlock,3,10,D,N,Red oak,54.6,N,AS,Dominant,Insect damage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+2022,6/10/2022,Hemlock,3,10,D,NA,Red oak,NA,NA,NL,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,1,A,N,White ash,25.4,N,AS,Dominant,EAB,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,1,A,N,White ash,NA,N,DF,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,2,A,N,White ash,19.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/16/2022,Ash,4,2,A,N,White ash,19.2,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,3,A,N,White ash,31.3,N,AS,Dominant,EAB,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,3,A,N,White ash,31.7,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,4,B,N,Yellow birch,33.5,N,AS,Co-dominant,Healthy,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,4,B,N,Yellow birch,35.0,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,5,C,N,White ash,26.2,N,DS,NA,NA,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,5,C,N,White ash,26.2,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,6/11/2018,Ash,4,6,C,N,Hop hornbeam,11.7,N,AS,Sub-canopy,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,6,C,N,Hop hornbeam,11.9,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,6/11/2018,Ash,4,7,C,N,Eastern hemlock,18.8,N,AL,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,7,C,N,Eastern hemlock,18.8,N,AL,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/11/2018,Ash,4,8,D,N,Eastern hemlock,28.7,N,AS,Co-dominant,HWA/EHS,NA,4,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,8,D,N,Eastern hemlock,29.3,N,AS,Dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/11/2018,Ash,4,9,D,N,Yellow birch,13.0,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/16/2022,Ash,4,9,D,N,Yellow birch,13.8,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/13/2018,Hemlock,5,1,A,N,Eastern hemlock,21.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/21/2022,Hemlock,5,1,A,N,Eastern hemlock,21.9,N,AS,Intermediate,HWA/EHS,NA,2,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/13/2018,Hemlock,5,2,A,N,Eastern hemlock,36.1,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/21/2022,Hemlock,5,2,A,N,Eastern hemlock,36.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/13/2018,Hemlock,5,3,A,N,Chestnut oak,31.3,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/21/2022,Hemlock,5,3,A,N,Chestnut oak,31.5,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/13/2018,Hemlock,5,4,A,N,Red maple,28.5,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/21/2022,Hemlock,5,4,A,N,Red maple,29.0,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/13/2018,Hemlock,5,5,A,N,American beech,12.3,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/21/2022,Hemlock,5,5,A,N,American beech,12.9,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,6/13/2018,Hemlock,5,6,B,N,Red maple,33.3,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/21/2022,Hemlock,5,6,B,N,Eastern hemlock,NA,NA,DF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,6/13/2018,Hemlock,5,7,C,N,Eastern hemlock,31.4,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/21/2022,Hemlock,5,7,C,N,Eastern hemlock,31.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/13/2018,Hemlock,5,8,C,N,Red oak,61.5,N,AS,Dominant,Insect damage,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/21/2022,Hemlock,5,8,C,N,Black oak,62.9,Y,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/13/2018,Hemlock,5,9,C,N,Eastern hemlock,24.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/21/2022,Hemlock,5,9,C,N,Eastern hemlock,24.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/13/2018,Hemlock,5,10,D,N,Eastern hemlock,16.4,N,DL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/21/2022,Hemlock,5,10,D,N,Eastern hemlock,17.2,N,DS,NA,NA,NA,NA,NA,Necrosis,10-50,90-100,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/13/2018,Hemlock,5,11,D,N,Red maple,44.0,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/21/2022,Hemlock,5,11,D,N,Red maple,44.2,N,AS,Dominant,Burl/Gall,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/13/2018,Hemlock,5,12,D,N,Eastern hemlock,20.7,N,AS,Sub-canopy,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/21/2022,Hemlock,5,12,D,N,Eastern hemlock,20.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/13/2018,Hemlock,5,13,D,N,Eastern hemlock,28.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,6/21/2022,Hemlock,5,13,D,N,Eastern hemlock,28.6,N,AS,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/21/2022,Hemlock,5,14,NA,N,Eastern hemlock,10.2,N,RS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,10-50,Necrosis,1-10,10-50,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,1,C,N,Eastern hemlock,14.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,1,C,N,Eastern hemlock,14.0,N,DS,NA,NA,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,2,A,N,Red maple,19.0,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,2,A,N,Sugar maple,19.7,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,3,A,N,Sugar maple,23.2,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,3,A,N,Sugar maple,21.2,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/18/2018,Hemlock,6,4,A,N,Sugar maple,25.7,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,4,A,N,Sugar maple,36.7,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,5,B,N,Sugar maple,25.3,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,7/1/2022,Hemlock,6,5,B,N,Sugar maple,26.0,N,AS,Co-dominant,Healthy,NA,4,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,6,B,N,Sugar maple,36.9,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,6,B,N,Sugar maple,38.4,Y,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,7,B,A,Eastern hemlock,10.5,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,7,B,A,Eastern hemlock,10.5,N,DF,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,8,B,A,Eastern hemlock,15.2,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,8,B,A,Eastern hemlock,15.5,N,DF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/18/2018,Hemlock,6,9,C,N,Eastern hemlock,22.2,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,9,C,N,Eastern hemlock,22.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/18/2018,Hemlock,6,10,C,N,Chestnut oak,73.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,10,C,N,Chestnut oak,75.2,Y,AS,Dominant,Cankers/Wounds/Spongy moth/Large dead branches,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/18/2018,Hemlock,6,11,C,N,Eastern hemlock,26.2,N,DS,NA,NA,NA,4,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Hemlock,6,11,C,N,Eastern hemlock,27.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/18/2018,Hemlock,6,12,D,N,Eastern hemlock,15.3,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,7/1/2022,Hemlock,6,12,D,N,Eastern hemlock,15.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,Necrosis,50-90,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,1,C,N,Eastern hemlock,14.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Necrosis,50-90,1-10,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,1,C,N,Eastern hemlock,15.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,2,A,N,Red maple,44.1,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,2,A,N,Sugar maple,44.0,N,DS,NA,NA,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,3,B,N,Eastern hemlock,15.9,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,3,B,N,Eastern hemlock,17.0,N,AS,Intermediate,HWA/EHS/Cankers/Wounds,NA,NA,NA,Holes,10-50,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,4,B,N,Red maple,11.1,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,4,B,N,Red maple,11.2,N,AS,Intermediate,Insect damage,NA,NA,NA,Holes,1-10,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,5,B,N,Eastern hemlock,11.5,N,AL,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/24/2022,Hemlock,7,5,B,N,Eastern hemlock,11.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,6,B,N,Red maple,14.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Necrosis,10-50,50-90,Holes,1-10,10-50,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,6,B,N,Red maple,14.3,N,AS,Intermediate,Insect damage/Large dead branches,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,10-50,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,7,B,N,Red oak,56.4,N,AS,Dominant,Insect damage,NA,NA,NA,Holes,1-10,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,7,B,N,Black oak,58.0,N,AS,Dominant,Insect damage,NA,NA,NA,Holes,1-10,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,8,B,N,Eastern hemlock,15.5,N,AL,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/24/2022,Hemlock,7,8,B,N,Eastern hemlock,16.1,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,9,C,N,Sugar maple,18.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,10-50,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,9,C,N,Red maple,18.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,10,C,A,Eastern hemlock,16.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/24/2022,Hemlock,7,10,C,A,Eastern hemlock,17.5,N,AS,Intermediate,HWA/EHS/Spongy moth,NA,NA,NA,Necrosis,1-10,1-10,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,11,C,A,Eastern hemlock,15.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,11,C,A,Eastern hemlock,15.5,N,AS,Intermediate,HWA/EHS/Spongy moth,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,12,D,N,Eastern hemlock,10.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,12,D,N,Eastern hemlock,10.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,6/22/2018,Hemlock,7,13,D,N,Eastern hemlock,17.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,13,D,N,Eastern hemlock,17.6,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/22/2018,Hemlock,7,14,D,N,Unknown sp.,48.0,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/24/2022,Hemlock,7,14,D,N,Unknown hardwood sp.,50.2,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,1,B,N,Eastern hemlock,24.1,N,DB,NA,NA,NA,NA,NA,Holes,50-90,1-10,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,1,B,N,NA,NA,N,DF,NA,NA,NA,NA,NA,Holes,50-90,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,2,A,N,Eastern hemlock,28.0,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,1-10,Chlorosis,10-50,10-50,NA,NA
+2022,6/30/2022,Ash,8,2,A,N,Eastern hemlock,29.0,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Necrosis,10-50,10-50,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,3,A,N,White ash,40.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/30/2022,Ash,8,3,A,N,White ash,40.5,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,4,A,N,Eastern hemlock,10.6,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Necrosis,50-90,10-50,Holes,50-90,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,4,A,N,Eastern hemlock,11.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,10-50,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,5,A,N,Eastern hemlock,27.2,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,5,A,N,Eastern hemlock,27.5,N,AS,Co-dominant,HWA/EHS/Cankers/Wounds,NA,NA,NA,Holes,50-90,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,6,A,N,White ash,41.6,N,AS,Dominant,EAB,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,6,A,N,White ash,41.0,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,7,B,A,Eastern hemlock,19.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,7,B,N,Eastern hemlock,18.7,N,DF,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,8,B,A,Eastern hemlock,16.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/30/2022,Ash,8,8,B,N,Eastern hemlock,17.5,N,DF,NA,NA,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,9,B,N,Eastern hemlock,31.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,9,B,N,Eastern hemlock,32.7,N,AS,Co-dominant,HWA/EHS/Cankers/Wounds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,6/27/2018,Ash,8,10,B,N,Sugar maple,35.5,N,AS,Co-dominant,Burl/Gall,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,10,B,N,Sugar maple,35.5,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,Holes,10-50,1-10,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,11,C,N,Eastern hemlock,27.5,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/30/2022,Ash,8,11,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,10-50,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,12,C,N,White ash,31.9,N,AS,Dominant,EAB,NA,NA,NA,Holes,10-50,1-10,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,12,C,N,White ash,31.0,N,DS,NA,NA,NA,NA,NA,Holes,50-90,10-50,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,13,C,N,Mockernut hickory,40.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,13,C,N,Bitternut hickory,32.5,N,AS,Dominant,Vines in canopy,NA,NA,NA,Necrosis,10-50,10-50,Holes,50-90,10-50,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,14,C,N,White ash,13.3,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/30/2022,Ash,8,14,C,NA,NA,NA,NA,NL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,6/27/2018,Ash,8,15,C,N,Sugar maple,12.8,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,10-50,Necrosis,10-50,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,15,C,NA,NA,NA,NA,NL,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,10-50,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,16,D,N,White ash,33.5,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/30/2022,Ash,8,16,D,N,White ash,33.6,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,17,D,N,Sugar maple,17.1,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,17,D,N,Sugar maple,19.1,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,18,D,N,Eastern hemlock,15.5,N,AL,Sub-canopy,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,6/30/2022,Ash,8,18,D,N,Eastern hemlock,15.3,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,19,D,N,Sugar maple,14.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Necrosis,50-90,1-10,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,19,D,N,Sugar maple,17.0,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,6/27/2018,Ash,8,20,D,N,Sugar maple,13.8,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,Necrosis,10-50,1-10,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,8,20,D,N,Sugar maple,15.9,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,6/30/2022,Ash,8,21,NA,N,Eastern hemlock,10.4,N,RL,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/2/2018,Ash,9,1,A,N,Sugar maple,42.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,1,A,N,Sugar maple,43.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/2/2018,Ash,9,2,A,N,White ash,58.9,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,10-50,1-10,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,2,A,N,White ash,59.0,Y,DF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,7/2/2018,Ash,9,3,B,N,White ash,34.2,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/1/2022,Ash,9,3,B,N,White ash,34.1,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/2/2018,Ash,9,4,C,N,Sugar maple,34.0,N,AS,Co-dominant,Burl/Gall,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,4,C,N,Sugar maple,34.5,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,7/2/2018,Ash,9,5,D,N,White ash,57.8,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,5,D,N,White ash,55.5,N,DS,NA,NA,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/2/2018,Ash,9,6,D,N,Sugar maple,36.7,Y,AS,Co-dominant,Burl/Gall,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,6,D,N,Sugar maple,39.5,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,7,NA,N,White ash,16.0,N,RD,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/1/2022,Ash,9,8,NA,N,White ash,17.1,N,RD,NA,NA,NA,NA,NA,Necrosis,10-50,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,1,A,N,Red maple,16.1,N,DB,NA,NA,NA,NA,NA,Necrosis,90-100,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,1,A,NA,NA,NA,NA,NL,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,2,A,N,White ash,27.9,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,2,A,N,White ash,26.5,N,DS,NA,NA,NA,NA,NA,Necrosis,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,3,B,N,Red oak,29.5,N,AL,Co-dominant,Large cavity,NA,NA,NA,Necrosis,10-50,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,3,B,N,Red oak,31.4,N,AL,Dominant,Cankers/Wounds/Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,4,B,N,White ash,26.4,N,DS,NA,NA,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,4,B,N,White ash,20.1,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,5,B,N,Eastern hemlock,10.5,N,DB,NA,NA,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,5,B,N,Eastern hemlock,10.2,N,DS,NA,NA,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,6,B,N,Eastern hemlock,15.8,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/5/2022,Ash,10,6,B,N,Eastern hemlock,15.5,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,7,B,N,Eastern hemlock,20.6,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,7,B,N,Eastern hemlock,20.7,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,7/3/2018,Ash,10,8,B,N,Eastern hemlock,12.3,N,DB,NA,NA,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,8,B,N,Eastern hemlock,12.0,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,9,B,N,Eastern hemlock,16.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Necrosis,50-90,10-50,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,9,B,N,Eastern hemlock,16.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,10,B,N,Eastern hemlock,16.6,N,DB,NA,NA,NA,NA,NA,Holes,1-10,1-10,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,10,B,N,Eastern hemlock,16.0,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,11,B,N,Red maple,22.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,11,B,N,Red maple,21.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Chlorosis,1-10,10-50,Necrosis,50-90,10-50,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,12,C,N,Eastern hemlock,23.2,N,AL,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,7/5/2022,Ash,10,12,C,N,Eastern hemlock,23.0,N,DS,NA,NA,NA,NA,NA,Chlorosis,1-10,50-90,Necrosis,10-50,10-50,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,13,C,N,Eastern hemlock,19.8,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,7/5/2022,Ash,10,13,C,N,Eastern hemlock,18.5,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,14,C,N,Eastern hemlock,14.2,N,DB,NA,NA,NA,NA,NA,Holes,1-10,1-10,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,14,C,N,Eastern hemlock,13.8,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,15,C,N,White ash,25.9,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,15,C,N,White ash,24.0,N,DF,NA,NA,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,16,D,N,Eastern hemlock,28.6,N,AS,Dominant,HWA/EHS,NA,NA,NA,Necrosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,16,D,N,Eastern hemlock,28.7,N,DS,NA,NA,NA,NA,NA,Necrosis,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,17,D,N,Eastern hemlock,19.0,N,DB,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,17,D,N,Eastern hemlock,15.0,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,18,D,N,White ash,23.5,N,DS,NA,NA,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,18,D,N,White ash,24.5,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2018,7/3/2018,Ash,10,19,D,N,Eastern hemlock,14.6,N,DL,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/5/2022,Ash,10,19,D,N,White ash,10.7,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,1,A,N,White pine,46.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,1,A,N,White pine,47.1,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,2,A,N,White ash,54.5,N,AS,Dominant,EAB,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,2,A,N,Eastern hemlock,11.6,N,AS,Intermediate,HWA/EHS/Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,3,A,N,Sugar maple,54.6,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,3,A,N,Sugar maple,56.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,4,B,N,White ash,42.9,N,DS,NA,NA,NA,NA,NA,Holes,50-90,50-90,Necrosis,50-90,50-90,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,4,B,N,White ash,42.9,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,5,C,N,White pine,37.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Necrosis,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,5,C,N,White pine,38.0,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,6,C,N,White pine,45.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,6,C,N,White pine,38.4,N,AS,Dominant,Healthy,NA,NA,NA,Chlorosis,1-10,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,7,C,N,Eastern hemlock,11.8,N,AS,Sub-canopy,HWA/EHS,NA,NA,NA,Necrosis,1-10,1-10,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,7,C,N,Eastern hemlock,12.6,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,8,C,N,Sugar maple,77.8,Y,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,8,C,N,Sugar maple,80.1,Y,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,9,D,N,Yellow birch,10.5,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,9,D,N,Yellow birch,11.1,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,10,D,N,White ash,48.7,N,DS,NA,EAB,NA,NA,1,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,10,D,NA,White ash,NA,NA,NL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,11,D,N,White pine,25.8,N,AS,Co-dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,11,D,NA,White pine,NA,NA,NL,NA,NA,NA,NA,1,Wilting,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/9/2018,Ash,11,12,D,N,Eastern hemlock,12.0,N,AS,Sub-canopy,HWA/EHS,NA,NA,1,Chlorosis,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/27/2022,Ash,11,12,D,NA,Eastern hemlock,NA,NA,NL,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,1,A,N,White ash,21.1,N,DS,NA,NA,NA,NA,2,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,1,A,N,White ash,19.4,N,DF,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,7/10/2018,Ash,12,2,A,N,Red oak,30.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,2,A,N,Chestnut oak,32.6,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,3,A,N,White ash,29.7,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,3,A,N,Red maple,29.7,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,4,A,N,White ash,45.8,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,6/30/2022,Ash,12,4,A,N,White ash,42.9,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,5,B,N,Sugar maple,21.3,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,5,B,A,Sugar maple,22.6,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,6,B,N,Sugar maple,34.3,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,6,B,A,Sugar maple,37.2,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,7,B,N,White ash,52.8,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,7,B,N,White ash,52.8,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,8,B,N,Sugar maple,13.3,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,8,B,N,Sugar maple,14.2,N,AS,Intermediate,Cankers/Wounds,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,9,C,N,White ash,39.2,N,AS,Dominant,EAB,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,9,C,N,White ash,38.0,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,10,C,N,Sugar maple,10.9,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,10,C,N,Sugar maple,11.5,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/10/2018,Ash,12,11,C,N,Eastern hemlock,10.9,N,AS,Sub-canopy,HWA/EHS,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,6/30/2022,Ash,12,11,C,N,Eastern hemlock,10.7,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,1,A,N,Chestnut oak,36.2,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/6/2022,Burn,13,1,A,N,Chestnut oak,37.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,2,A,N,Red oak,25.5,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,2,A,N,Black oak,25.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,3,A,N,Chestnut oak,25.5,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,3,A,N,Chestnut oak,26.2,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,4,B,N,Red oak,41.4,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,4,B,N,Black oak,42.5,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,5,B,N,Red maple,10.9,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,5,B,N,Red maple,10.8,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,7/16/2018,Burn,13,6,B,N,Chestnut oak,29.1,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,6,B,N,Chestnut oak,30.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,7,D,N,Red oak,59.4,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,7,D,N,Black oak,62.4,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,8,D,N,Red maple,11.5,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,8,D,N,Red maple,11.9,N,AS,Intermediate,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/16/2018,Burn,13,9,D,N,Red oak,39.5,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,13,NA,D,NA,Red oak,NA,NA,NL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,7/18/2018,Burn,14,1,A,N,Chestnut oak,26.0,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,1,A,N,Chestnut oak,27.6,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/18/2018,Burn,14,2,A,N,Red oak,19.0,N,AL,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,7/15/2022,Burn,14,2,A,N,Black oak,20.1,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,7/18/2018,Burn,14,3,A,N,Red maple,14.8,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,3,A,N,Red maple,15.3,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/18/2018,Burn,14,4,B,N,Red maple,10.1,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,4,B,N,Red maple,9.0,N,DF,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/18/2018,Burn,14,5,B,N,Chestnut oak,14.7,N,AS,Gap exploiter ,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,5,B,N,Chestnut oak,15.9,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,7/18/2018,Burn,14,6,B,N,Red oak,28.7,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,6,B,N,Red oak,28.0,N,DF,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/18/2018,Burn,14,7,D,N,Yellow birch,34.0,N,AS,Co-dominant,Cankers/Wounds,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,7,D,N,Black birch,34.5,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/18/2018,Burn,14,8,D,N,Chestnut oak,25.1,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,8,D,N,Chestnut oak,25.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/15/2022,Burn,14,9,NA,N,Eastern hemlock,10.3,N,RS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,7/25/2018,Burn,15,1,A,N,Chestnut oak,27.8,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,7/13/2022,Burn,15,1,A,N,Chestnut oak,28.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,2,A,N,Red oak,15.7,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,2,A,N,Red oak,14.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,3,A,N,Unknown sp.,14.2,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,3,A,N,Chestnut oak,14.0,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,4,B,N,Chestnut oak,53.8,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,4,B,N,Chestnut oak,54.6,N,AS,Dominant,Large dead branches/Spongy moth,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,5,B,N,Red oak,21.7,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,5,B,N,Red oak,22.0,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,6,B,N,Red oak,33.1,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,6,B,N,Red oak,34.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,7,C,N,Red oak,34.0,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,7,C,N,Red oak,34.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,8,C,N,Chestnut oak,30.9,N,DS,NA,NA,NA,NA,NA,Necrosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,8,C,NA,NA,NA,NA,NL,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,9,D,N,Chestnut oak,39.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,9,D,N,Chestnut oak,40.5,N,AS,Dominant,Spongy moth,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,10,D,N,Red oak,12.4,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,10,D,N,Red oak,12.5,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,11,D,N,Red oak,11.5,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,11,D,N,Red oak,11.7,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/25/2018,Burn,15,12,D,N,Red oak,16.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,15,12,D,N,Red oak,17.0,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,1,A,N,Red oak,12.3,N,AS,Co-dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,1,A,N,Black oak,13.1,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,2,A,N,Chestnut oak,42.4,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,2,A,N,Chestnut oak,43.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,3,B,N,Chestnut oak,28.0,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,3,B,N,Chestnut oak,28.5,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,4,B,N,Chestnut oak,32.8,N,AS,Dominant,Healthy,NA,NA,NA,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,4,B,N,Chestnut oak,34.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Necrosis,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,5,B,N,Red oak,10.5,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,5,B,N,Black oak,10.8,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,6,B,N,Red oak,16.6,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/6/2022,Burn,16,6,B,N,Black oak,17.2,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,50-90,Leaf loss,50-90,10-50,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,7,B,N,Red oak,39.3,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,7,B,N,Black oak,42.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,8,C,N,Chestnut oak,41.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,8,C,N,Chestnut oak,44.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,9,D,N,Red oak,16.3,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,9,D,N,Black oak,17.1,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,10,D,N,Chestnut oak,42.9,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,10,D,N,Chestnut oak,44.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,7/27/2018,Burn,16,11,D,N,Chestnut oak,48.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/6/2022,Burn,16,11,D,N,Chestnut oak,49.0,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,1,NA,N,Chestnut oak,27.4,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,1,NA,N,Chestnut oak,20.3,N,DF,NA,NA,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,2,A,N,Red oak,11.8,N,AS,Gap exploiter ,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,2,A,N,Red oak,14.1,N,AS,Intermediate,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,3,A,N,Red oak,14.9,N,AS,Gap exploiter ,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,3,A,N,Red oak,17.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,8/1/2018,Burn,17,4,A,N,Chestnut oak,33.9,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,4,A,N,Chestnut oak,34.6,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,5,B,N,Red oak,12.8,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,5,B,N,Red oak,14.0,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,6,D,N,Unknown sp.,34.0,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,6,D,N,Chestnut oak,31.2,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/1/2018,Burn,17,7,D,N,Chestnut oak,28.5,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/13/2022,Burn,17,7,D,N,Chestnut oak,30.0,N,AS,Co-dominant,Spongy moth,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,1,A,N,Chestnut oak,43.5,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,1,A,N,Chestnut oak,45.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,2,A,N,Red maple,17.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,2,A,N,Red maple,18.8,N,AS,Intermediate,Cankers/Wounds/Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,3,B,N,Red maple,11.6,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,3,B,N,Red maple,11.5,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,4,B,N,Red maple,41.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,4,B,N,Chestnut oak,42.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,5,C,N,Chestnut oak,11.2,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,5,C,N,Chestnut oak,11.1,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,6,D,N,Red oak,13.8,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,6,D,N,Black oak,12.2,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/2/2018,Burn,18,7,D,N,Red oak,16.3,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/14/2022,Burn,18,7,D,N,Black oak,17.5,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,1,A,N,Eastern hemlock,15.0,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,1,A,N,Eastern hemlock,13.4,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,2,A,N,Eastern hemlock,24.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,Leaf loss,50-90,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,2,A,N,Eastern hemlock,24.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,3,A,N,Red maple,23.2,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,7/22/2022,Random,19,3,A,N,Red maple,23.5,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,8/10/2018,Random,19,4,A,N,Unknown sp.,38.8,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,4,A,N,Unknown hardwood sp.,43.0,N,DF,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,5,A,N,Shagbark hickory,11.8,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,5,A,N,Shagbark hickory,13.2,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,6,A,A,Slippery elm,14.5,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,6,A,A,Red maple,28.0,N,AB,Intermediate,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,7,A,A,Red maple,27.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,7,A,A,Red maple,25.0,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,8,A,N,Red maple,23.6,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,8,A,N,Red maple,14.2,N,DS,NA,NA,NA,NA,NA,Holes,50-90,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,9,B,N,White ash,22.3,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,9,B,NA,White ash,NA,NA,NL,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,10,B,N,Red maple,29.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,10,B,N,Red maple,30.5,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,11,C,N,Shagbark hickory,17.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,11,C,NA,Shagbark hickory,NA,NA,NL,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,12,C,N,Tulip poplar,46.3,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,12,C,NA,Tulip poplar,NA,NA,NL,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,13,C,N,Shagbark hickory,31.7,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,13,C,N,Shagbark hickory,31.6,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,14,D,N,Eastern hemlock,25.0,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,14,D,NA,Eastern hemlock,NA,NA,NL,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,15,D,N,Shagbark hickory,43.8,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,15,D,N,Shagbark hickory,44.5,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,16,D,N,Red oak,18.8,N,AL,Co-dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,16,D,N,Red oak,23.0,Y,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/10/2018,Random,19,17,D,N,Red maple,33.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,17,D,N,Red maple,44.0,Y,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,19,18,NA,N,Shagbark hickory,11.5,N,RS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,1,A,N,Red cedar,18.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,1,A,N,Red cedar,18.3,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,2,A,N,Red cedar,20.3,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,2,A,N,Red cedar,20.0,N,DS,NA,NA,NA,NA,NA,Leaf loss,50-90,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,3,B,N,Slippery elm,11.9,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,3,B,N,Slippery elm,12.6,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,4,B,N,Red oak,52.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,4,B,N,Black oak,54.3,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,5,B,N,Red oak,51.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,5,B,N,Black oak,54.0,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,6,C,N,Red maple,14.7,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,6,C,N,Red maple,15.5,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,7,C,N,Red cedar,13.1,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,7,C,N,Red cedar,13.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,8/14/2018,Random,20,8,C,N,Red cedar,34.0,Y,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,8,C,N,Red cedar,34.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,9,D,N,Red cedar,30.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,9,D,N,Red cedar,30.4,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,10,D,N,Red maple,12.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,10,D,N,Red maple,13.5,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,8/14/2018,Random,20,11,D,N,Red cedar,20.9,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,50-90,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,Bark is peeling off/Big scar
+2022,7/25/2022,Random,20,11,D,N,Red cedar,20.9,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/14/2018,Random,20,12,D,N,Red cedar,12.8,Y,DL,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,12,D,N,Red cedar,NA,N,NL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/25/2022,Random,20,13,NA,N,Red maple,10.1,N,RS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/25/2022,Random,20,14,NA,N,Slippery elm,10.5,N,RS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,1,A,N,Red oak,34.7,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/27/2022,Random,21,1,A,N,Black oak,37.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,2,A,N,Eastern hemlock,17.5,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,2,A,N,Eastern hemlock,17.9,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,90-100,NA,Chlorosis,1-10,90-100,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,3,A,N,White ash,33.2,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/27/2022,Random,21,3,A,N,White ash,33.0,N,DS,NA,NA,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,4,A,N,Sugar maple,12.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,4,A,N,Sugar maple,13.0,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,Dead spongy moth
+2018,8/15/2018,Random,21,5,B,N,Eastern hemlock,31.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/27/2022,Random,21,5,B,N,Eastern hemlock,31.0,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,6,B,N,Yellow birch,32.0,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/27/2022,Random,21,6,B,N,Yellow birch,33.1,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,7,B,N,Eastern hemlock,18.3,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,7,B,N,Eastern hemlock,19.3,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2018,8/15/2018,Random,21,8,B,N,Shagbark hickory,10.2,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,8,B,N,Shagbark hickory,10.3,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,9,B,N,Shagbark hickory,15.7,N,AS,Co-dominant,Healthy,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,9,B,N,Shagbark hickory,16.1,N,AS,Gap exploiter ,Healthy,NA,NA,NA,Holes,50-90,50-90,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,10,C,N,Red oak,40.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,10,C,N,Red oak,43.7,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,11,C,N,Red maple,10.5,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,11,C,N,Red maple,10.7,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,12,D,N,Sugar maple,10.8,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,12,D,N,Sugar maple,11.5,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,13,D,N,Tulip poplar,26.1,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,13,D,N,Tulip poplar,28.3,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2018,8/15/2018,Random,21,14,D,N,Sugar maple,10.7,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,14,D,N,Sugar maple,11.5,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,21,15,NA,N,Red maple,33.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,Leaf loss,1-10,NA,Necrosis,1-10,10-50,NA,NA
+2018,8/21/2018,Random,22,1,D,N,Red maple,11.9,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CWD/Lying 
+2022,7/21/2022,Random,22,1,NA,N,Red maple,12.4,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2018,8/21/2018,Random,22,2,D,N,Red oak,26.4,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,50-90,10-50,Small leaves,1-10,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,2,NA,N,Red oak,27.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,3,D,N,Slippery elm,13.3,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+2022,7/21/2022,Random,22,3,NA,N,Slippery elm,13.5,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2018,8/21/2018,Random,22,4,D,N,Red maple,14.8,Y,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/21/2022,Random,22,4,NA,N,Red maple,15.0,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,5,D,N,Red maple,24.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,5,NA,N,Red maple,25.2,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,6,D,N,Pin oak,24.7,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CWD/Lying on ground
+2022,7/21/2022,Random,22,6,NA,N,Red oak,24.2,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,7,A,N,Pin oak,42.8,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,7,NA,N,Red oak,43.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,8,A,N,Pin oak,13.2,N,AS,Intermediate,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,8,NA,N,Red oak,13.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,8/21/2018,Random,22,9,A,A,Red maple,57.7,Y,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/21/2022,Random,22,9,NA,N,Red maple,61.2,Y,AS,Co-dominant,Large dead branches/Spongy moth,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,10,A,A,Red maple,16.7,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,7/21/2022,Random,22,10,NA,N,Red maple,16.5,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,11,B,N,Slippery elm,18.4,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,CWD/Lying on ground
+2022,7/21/2022,Random,22,11,NA,N,Slippery elm,17.9,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,12,B,N,Pin oak,24.5,N,AS,Dominant,Healthy,NA,NA,2,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,12,NA,N,Red oak,26.7,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2018,8/21/2018,Random,22,13,B,N,Pin oak,26.9,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,13,NA,N,Red oak,27.8,N,AS,Co-dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,14,B,N,Slippery elm,13.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,14,NA,N,Slippery elm,13.2,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,15,C,N,Slippery elm,15.3,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,50-90,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,15,NA,N,Slippery elm,15.0,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,16,C,N,Red maple,10.2,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,16,NA,N,Red maple,11.1,N,RS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,17,C,N,White ash,20.6,N,DS,NA,NA,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,17,NA,N,White ash,19.8,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,18,C,N,Snag,10.1,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,Missing/Fallen/CWD
+2022,7/21/2022,Random,22,18,NA,NA,Snag,NA,NA,NL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/21/2018,Random,22,19,C,N,Red maple,12.8,N,AS,Co-dominant,Healthy,4,NA,NA,Holes,10-50,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,7/21/2022,Random,22,19,NA,N,Red maple,12.8,N,RS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,1,A,N,Sugar maple,23.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,1,NA,N,Sugar maple,23.2,N,AS,Intermediate,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,2,A,N,Black walnut,33.5,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,2,NA,N,Black walnut,37.0,N,DF,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,3,B,N,White pine,37.8,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,3,NA,N,White pine,37.5,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,4,C,N,Red oak,75.1,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,4,NA,N,Red oak,75.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,5,C,N,White pine,45.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/22/2022,Random,23,5,NA,N,White pine,44.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA
+2018,8/22/2018,Random,23,6,C,N,Red maple,17.2,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,6,NA,N,Red maple,17.5,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,7,D,N,Red oak,21.0,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,7,NA,N,Red oak,20.1,N,DS,NA,NA,2,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,8,D,N,Yellow birch,39.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,8,NA,N,Black birch,39.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,9,D,N,Hop hornbeam,10.7,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/22/2022,Random,23,9,NA,N,Hop hornbeam,10.3,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/22/2018,Random,23,10,D,N,Red oak,30.2,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/22/2022,Random,23,10,NA,N,Red oak,31.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,1,A,N,Eastern hemlock,10.1,N,AS,Sub-canopy,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,1,A,N,Eastern hemlock,11.4,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,2,A,N,Hop hornbeam,16.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,2,A,N,Hop hornbeam,17.2,N,AS,Intermediate,Healthy,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,3,A,N,Striped maple,11.5,N,AL,Sub-canopy,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,3,A,N,Striped maple,NA,NA,NL,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,4,A,N,Shagbark hickory,11.5,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,4,A,N,Shagbark hickory,12.3,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,5,B,N,White pine,58.7,N,AS,Dominant,Vines in canopy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,5,B,N,White pine,58.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,6,B,N,Yellow birch,11.6,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,6,B,N,Yellow birch,12.7,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,Missing/Fallen/CWD
+2018,8/23/2018,Random,24,7,B,N,White pine,61.6,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,Missing/Fallen/CWD
+2022,7/27/2022,Random,24,7,B,N,White pine,63.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,8,C,N,Red oak,55.5,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,Missing/Fallen/CWD
+2022,7/27/2022,Random,24,8,C,N,Black oak,57.3,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,9,C,N,Yellow birch,34.5,N,AL,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,9,C,N,Yellow birch,35.6,N,AS,Co-dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,10,D,N,Red maple,17.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,7/27/2022,Random,24,10,D,N,Red maple,17.5,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2018,8/23/2018,Random,24,11,D,N,Sugar maple,25.9,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,11,D,N,Sugar maple,27.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2018,8/23/2018,Random,24,12,D,N,White pine,74.4,N,AS,Dominant,Vines in canopy,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,7/27/2022,Random,24,12,D,N,White pine,76.3,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/20/2021,Hemlock-BB,25,1,A,N,Eastern hemlock,14.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/20/2021,Hemlock-BB,25,2,A,N,Sugar maple,38.1,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/20/2021,Hemlock-BB,25,3,A,N,Sugar maple,14.9,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/20/2021,Hemlock-BB,25,4,A,N,Yellow birch,27.1,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/20/2021,Hemlock-BB,25,5,A,N,Sugar maple,10.1,N,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/20/2021,Hemlock-BB,25,6,B,N,Black birch,28.1,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/20/2021,Hemlock-BB,25,7,B,N,Yellow birch,44.8,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/20/2021,Hemlock-BB,25,8,C,N,Eastern hemlock,19.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,7/20/2021,Hemlock-BB,25,9,C,N,Eastern hemlock,10.7,N,AS,Dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,7/20/2021,Hemlock-BB,25,10,C,N,Eastern hemlock,17.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,7/20/2021,Hemlock-BB,25,11,C,N,Black birch,18.4,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,7/20/2021,Hemlock-BB,25,12,D,N,Eastern hemlock,17.4,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,CWD/Lying
+2021,7/20/2021,Hemlock-BB,25,13,D,N,Red oak,70.9,N,AS,Dominant,Insect damage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/20/2021,Hemlock-BB,25,14,D,N,Eastern hemlock,16.7,N,AS,Intermediate,HWA/EHS,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/6/2021,Hemlock-BB,26,1,A,N,Eastern hemlock,45.5,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,CWD/Lying
+2021,7/6/2021,Hemlock-BB,26,2,A,N,Unknown sp.,13.5,N,DL,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/6/2021,Hemlock-BB,26,3,A,N,Eastern hemlock,38.4,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/6/2021,Hemlock-BB,26,4,A,N,Black birch,28.8,N,AL,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/6/2021,Hemlock-BB,26,5,B,N,Eastern hemlock,17.9,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/6/2021,Hemlock-BB,26,6,B,N,Eastern hemlock,10.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/6/2021,Hemlock-BB,26,7,B,N,Eastern hemlock,12.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/6/2021,Hemlock-BB,26,8,C,N,Eastern hemlock,13.1,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/6/2021,Hemlock-BB,26,9,C,N,Yellow birch,29.2,N,AL,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/6/2021,Hemlock-BB,26,10,C,N,Tulip poplar,60.1,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/7/2021,Hemlock-BB,27,1,B,N,Tulip poplar,61.5,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/7/2021,Hemlock-BB,27,2,B,N,Unknown sp.,13.1,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/7/2021,Hemlock-BB,27,3,B,N,Unknown sp.,35.3,N,DS,NA,NA,NA,NA,NA,Holes,50-90,10-50,Chlorosis,50-90,10-50,NA,NA,NA,NA,NA
+2021,7/7/2021,Hemlock-BB,27,4,B,N,Eastern hemlock,43.3,N,AS,Dominant,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Chlorosis,50-90,10-50,NA,NA,NA,NA,NA
+2021,7/7/2021,Hemlock-BB,27,5,B,N,Eastern hemlock,25.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/7/2021,Hemlock-BB,27,6,B,N,Eastern hemlock,26.1,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,Missing/Fallen/CWD
+2021,7/7/2021,Hemlock-BB,27,7,B,N,Eastern hemlock,35.9,N,AS,Dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/7/2021,Hemlock-BB,27,8,C,N,Eastern hemlock,51.0,N,AS,Dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/7/2021,Hemlock-BB,27,9,C,N,Unknown sp.,29.5,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/7/2021,Hemlock-BB,27,10,D,N,Eastern hemlock,69.2,N,AS,Dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/7/2021,Hemlock-BB,27,11,D,N,Eastern hemlock,10.9,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,7/19/2021,Hemlock-BB,28,1,A,N,Eastern hemlock,24.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,7/19/2021,Hemlock-BB,28,2,A,N,Red oak,89.9,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/19/2021,Hemlock-BB,28,3,A,N,Eastern hemlock,19.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,7/19/2021,Hemlock-BB,28,4,A,N,Eastern hemlock,20.8,N,AS,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/19/2021,Hemlock-BB,28,5,B,N,Tulip poplar,66.0,N,AS,Dominant,Insect damage,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/19/2021,Hemlock-BB,28,6,B,N,Eastern hemlock,22.5,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/19/2021,Hemlock-BB,28,7,C,N,Eastern hemlock,21.5,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/19/2021,Hemlock-BB,28,8,C,N,Unknown sp.,39.3,N,DB,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/19/2021,Hemlock-BB,28,9,D,A,Eastern hemlock,38.5,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/19/2021,Hemlock-BB,28,10,D,A,Eastern hemlock,16.8,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,CWD/Lying
+2021,7/19/2021,Hemlock-BB,28,11,D,N,Tulip poplar,50.5,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,7/19/2021,Hemlock-BB,28,12,D,N,Black birch,29.1,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,6/18/2021,Hemlock-BB,29,1,A,N,Eastern hemlock,12.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,6/18/2021,Hemlock-BB,29,2,A,N,Eastern hemlock,12.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,Wilting leaves
+2021,6/18/2021,Hemlock-BB,29,3,A,N,Eastern hemlock,10.9,N,AL,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,6/18/2021,Hemlock-BB,29,4,B,N,Eastern hemlock,11.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,5,B,N,Red oak,56.2,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,6/18/2021,Hemlock-BB,29,6,B,N,Eastern hemlock,12.1,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,7,B,N,Red oak,52.3,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,8,B,N,Chestnut oak,22.6,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,9,C,N,Black birch,10.1,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,10,C,N,Eastern hemlock,10.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Leaf loss,50-90,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,11,C,N,Red oak,37.0,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,12,D,N,Eastern hemlock,16.7,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,6/18/2021,Hemlock-BB,29,13,D,N,Black birch,17.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,14,D,N,Red oak,21.1,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,15,D,N,Eastern hemlock,14.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,6/18/2021,Hemlock-BB,29,16,D,N,Chestnut oak,66.0,N,AS,Dominant,Other,NA,NA,NA,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,Spongy moth on tree
+2021,6/18/2021,Hemlock-BB,29,17,D,N,White oak,27.0,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,1,A,N,Yellow birch,10.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,2,A,N,Eastern hemlock,10.4,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,3,B,N,Eastern hemlock,12.8,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,4,B,N,Eastern hemlock,10.7,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,5,B,N,Red maple,38.4,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,6,B,N,Red maple,27.3,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,7,B,N,Eastern hemlock,10.4,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,10-50,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,8,C,N,Red oak,49.4,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,8,C,N,Red oak,49.4,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,9,C,N,Yellow birch,12.6,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,Chlorosis,1-10,1-10,NA,NA
+2021,7/23/2021,Hemlock-BB,30,10,D,N,Eastern hemlock,11.2,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,7/23/2021,Hemlock-BB,30,11,D,N,Red oak,52.3,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,12,D,N,Chestnut oak,29.5,N ,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,13,D,N,Eastern hemlock,10.6,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2021,7/23/2021,Hemlock-BB,30,14,D,N,Red oak,43.6,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,Missing/Fallen/CWD
+2021,7/23/2021,Hemlock-BB,30,15,D,N,Eastern hemlock,15.0,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,1,A,N,American beech,16.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,1,A,N,American beech,17.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,1,A,N,American beech,18.5,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,6/11/2021,Hemlock-BB,31,2,A,N,Eastern hemlock,11.3,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,3,A,N,Sugar maple,20.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,4,B,N,Eastern hemlock,31.7,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,5,C,N,Red maple,35.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,6,C,N,American beech,30.0,N,AS,Co-dominant,BBD,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,7,C,N,Red oak,66.0,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing/Fallen/CWD
+2021,6/11/2021,Hemlock-BB,31,8,C,N,Eastern hemlock,17.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Chlorosis,1-10,1-10,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,9,D,N,Eastern hemlock,14.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/11/2021,Hemlock-BB,31,10,D,N,Red oak,64.0,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,6/11/2021,Hemlock-BB,31,11,D,N,Eastern hemlock,16.5,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/17/2021,Hemlock-BB,32,1,A,N,Eastern hemlock,20.6,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/17/2021,Hemlock-BB,32,2,A,N,Eastern hemlock,20.5,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/17/2021,Hemlock-BB,32,3,B,N,Yellow birch,53.1,N,AS,Dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,6/17/2021,Hemlock-BB,32,4,B,N,Eastern hemlock,12.8,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,6/17/2021,Hemlock-BB,32,5,C,N,Black birch,48.0,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,6/17/2021,Hemlock-BB,32,6,D,N,Eastern hemlock,28.9,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,1,A,N,Pitch pine,39.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,2,A,N,Pitch pine,30.2,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,3,A,N,Unknown sp.,11.8,N,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,4,A,N,Pitch pine,34.8,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,50-90,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,5,B,N,Pitch pine,30.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2021,7/27/2021,PitchPine-BB,33,6,C,N,Red maple,15.0,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,7,C,N,Pitch pine,39.9,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,8,C,N,Chestnut oak,19.7,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,9,C,N,Pitch pine,38.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,10,D,N,Chestnut oak,39.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,11,D,N,Sassafras,17.0,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,12,D,N,Pitch pine,34.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2021,7/27/2021,PitchPine-BB,33,13,D,N,Pitch pine,20.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,1,A,N,Pitch pine,37.3,N,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,2,A,N,Pitch pine,21.2,Y,AL,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,8/9/2021,PitchPine-BB,34,3,A,N,Pitch pine,10.2,N,AS,Intermediate,Large cavity,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,4,A,N,Pitch pine,23.1,N,AS,Co-dominant,Large dead branches/Small cavity,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,8/9/2021,PitchPine-BB,34,5,A,N,Black gum,10.5,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,6,B,N,Pitch pine,23.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,7,B,N,Pitch pine,19.1,Y,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,8,B,N,Pitch pine,27.8,N,AS,Co-dominant,Large dead branches/Large cavity,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,9,B,N,Pitch pine,23.4,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,10,C,N,Pitch pine,28.9,Y,AL,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,11,C,N,Pitch pine,17.0,Y,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,12,C,A,Pitch pine,13.9,Y,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,13,C,A,Pitch pine,14.1,Y,AS,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,14,D,N,Pitch pine,17.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/9/2021,PitchPine-BB,34,15,D,N,Pitch pine,11.4,Y,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,1,A,N,Pitch pine,21.4,N,AS,Dominant,Burl/Gall/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,8/4/2021,PitchPine-BB,35,2,B,N,Pitch pine,18.2,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,8/4/2021,PitchPine-BB,35,3,B,N,Pitch pine,28.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,4,B,N,Pitch pine,14.5,Y,AS,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2021,8/4/2021,PitchPine-BB,35,5,B,N,Pitch pine,18.2,N,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,6,C,N,Unknown sp.,18.1,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,Chlorosis,50-90,10-50,Leaf loss,1-10,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,7,C,N,Pitch pine,16.1,N,AL,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,8,C,N,Pitch pine,25.7,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,9,D,N,Pitch pine,11.3,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/4/2021,PitchPine-BB,35,10,D,N,Pitch pine,11.6,Y,AL,Intermediate,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,1,A,N,Pitch pine,10.6,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,2,A,N,Pitch pine,15.8,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,3,A,N,Pitch pine,13.2,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,4,B,N,Pitch pine,10.4,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,Also on CWD line
+2021,8/24/2021,PitchPine-BB,36,5,B,N,Pitch pine,11.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,6,B,N,Pitch pine,29.5,Y,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,7,B,N,Pitch pine,16.1,Y,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,Also on CWD line
+2021,8/24/2021,PitchPine-BB,36,8,B,N,Pitch pine,21.2,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,9,C,N,Pitch pine,25.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,10,C,N,Pitch pine,20.7,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,11,C,N,Pitch pine,18.5,Y,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/24/2021,PitchPine-BB,36,12,C,N,Pitch pine,14.9,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing
+2021,8/24/2021,PitchPine-BB,36,13,C,N,Pitch pine,13.4,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing
+2021,8/24/2021,PitchPine-BB,36,14,C,N,Pitch pine,12.1,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing
+2021,8/24/2021,PitchPine-BB,36,15,D,N,Pitch pine,22.0,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Missing
+2021,8/24/2021,PitchPine-BB,36,16,D,N,Pitch pine,16.0,Y,AL,Intermediate,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,"Accidentally tagged as tree 12, need to change to 13"
+2021,8/24/2021,PitchPine-BB,36,17,D,N,Black birch,15.8,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,"Accidentally tagged as tree 13, need to change to 14"
+2021,8/10/2021,PitchPine-BB,37,1,A,N,Chestnut oak,23.4,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,2,A,N,Chestnut oak,22.9,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,8/10/2021,PitchPine-BB,37,3,A,N,Chestnut oak,42.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,4,A,N,Pitch pine,16.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,5,A,N,Pitch pine,17.2,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,8/10/2021,PitchPine-BB,37,6,A,N,Red maple,16.2,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2021,8/10/2021,PitchPine-BB,37,7,B,N,Unknown sp.,15.4,N,DL,NA,NA,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,8,B,N,Red maple,15.8,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2021,8/10/2021,PitchPine-BB,37,9,B,N,Red oak,27.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,10,C,N,Chestnut oak,19.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,11,C,N,Chestnut oak,19.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,12,C,N,Red maple,16.3,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Was dead and leaning in 2018 so it likely has fallen.
+2021,8/10/2021,PitchPine-BB,37,13,C,N,Red maple,12.2,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,14,C,N,Red maple,11.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,10-50,Chlorosis,1-10,10-50,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,15,C,N,Chestnut oak,31.2,N,AS,Dominant,Large dead branches,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,16,C,N,Chestnut oak,31.4,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,17,C,N,Red maple,11.3,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,18,C,N,Red maple,10.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,19,D,N,Pitch pine,43.6,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,20,D,N,Unknown sp.,14.9,N,DL,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,21,D,N,Chestnut oak,27.6,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,22,D,N,Red maple,14.1,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/10/2021,PitchPine-BB,37,23,D,N,Red maple,12.6,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,50-90,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,1,A,N,Chestnut oak,23.5,N,AS,Dominant,Large dead branches,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,2,A,N,Pitch pine,13.0,N,AS,Co-dominant,Healthy,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,3,B,N,Red oak,26.0,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,4,B,N,Black birch,15.3,N,AS,Intermediate,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,5,B,N,Pitch pine,28.5,N,AS,Sub-canopy,Large dead branches,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,6,C,N,Red maple,10.1,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,7,C,N,Pitch pine,28.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,8,C,N,Red maple,16.6,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,9,C,N,Pitch pine,39.5,N,AS,Dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,10,C,N,Pitch pine,15.3,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,11,D,N,Unknown sp.,22.6,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,12,D,N,Red maple,12.1,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,13,D,N,Pitch pine,19.7,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,14,D,N,Pitch pine,19.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,15,D,N,Pitch pine,12.9,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021,8/26/2021,PitchPine-BB,38,16,D,N,Pitch pine,13.2,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Was leaning in 2018, likely fell."
+2022,8/1/2022,ChestnutOak-BB,39,1,A,N,Chestnut oak,40.2,N,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,Holes,90-100,50-90,Leaf loss,50-90,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,2,A,N,Yellow birch,17.2,N,AL,Co-dominant,Cankers/Wounds/Spongy moth,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,3,A,N,Red maple,25.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,4,A,N,Red maple,10.6,N,AS,Intermediate,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,5,B,N,Red oak,54.3,N,AS,Dominant,Insect damage/Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,6,B,N,Yellow birch,15.1,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,7,C,N,Red maple,10.0,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/1/2022,ChestnutOak-BB,39,8,D,N,Striped maple,12.9,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,50-90,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,1,A,N,Black birch,25.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,2,B,N,Yellow birch,10.4,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,3,C,N,Eastern hemlock,64.7,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,4,C,N,Red maple,29.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,5,D,N,Yellow birch,40.3,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Leaf loss,10-50,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,6,D,N,Yellow birch,11.1,N,AS,Intermediate,Cankers/Wounds/Advanced decay,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/2/2022,HemlockHardwood-BB,40,7,D,N,Red maple,40.2,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/4/2022,HemlockHardwood-BB,41,1,B,N,Black oak,54.1,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/4/2022,HemlockHardwood-BB,41,2,C,N,Eastern hemlock,23.1,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/4/2022,HemlockHardwood-BB,41,3,D,N,Red maple,25.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/4/2022,HemlockHardwood-BB,41,4,D,N,Eastern hemlock,15.0,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/4/2022,HemlockHardwood-BB,41,5,D,N,Yellow birch,52.6,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,1,A,N,White ash,35.0,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,2,A,N,Eastern hemlock,11.2,N,AL,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,3,A,N,Eastern hemlock,10.0,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,4,A,N,Eastern hemlock,13.9,N,AS,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,5,A,N,Eastern hemlock,22.0,N,AS,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,6,A,N,Eastern hemlock,21.8,N,AS,Co-dominant,HWA/EHS,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,7,A,N,Eastern hemlock,11.1,N,AL,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,8,C,N,Eastern hemlock,11.6,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,9,C,N,Yellow birch,26.7,Y,AS,Dominant,Insect damage/Cankers/Wounds,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,10,C,N,Eastern hemlock,10.8,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,90-100,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,11,C,N,Yellow birch,22.8,N,AS,Dominant,Healthy,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,12,C,N,Eastern hemlock,12.2,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/5/2022,HemlockHardwood-BB,42,13,D,N,Eastern hemlock,33.8,N,AS,Dominant,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,14,D,N,White ash,18.8,N,DS,NA,NA,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,15,D,N,Eastern hemlock,10.7,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,16,D,N,Eastern hemlock,13.4,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,17,D,A,Yellow birch,32.5,Y,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,18,D,A,Yellow birch,20.4,Y,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,19,D,N,Eastern hemlock,13.6,N,AS,Intermediate,HWA/EHS,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/5/2022,HemlockHardwood-BB,42,20,D,N,Eastern hemlock,11.2,N,AL,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/8/2022,ChestnutOak-BB,43,1,A,N,Red oak,19.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,50-90,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,2,A,N,Red oak,24.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,3,A,N,Pitch pine,35.7,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,4,A,N,Red oak,25.8,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,5,B,N,Chestnut oak,29.4,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,6,B,N,Red oak,28.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,7,C,N,Red oak,16.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,8,C,N,Red oak,11.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,9,D,N,Chestnut oak,17.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/8/2022,ChestnutOak-BB,43,10,D,N,Red oak,15.5,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,1,A,A,Sugar maple,17.7,Y,AS,Co-dominant,Cankers/Wounds/Burl,NA,NA,NA,Chlorosis,50-90,50-90,Leaf loss,50-90,NA,Holes,10-50,50-90,NA,NA
+2022,8/9/2022,OakHickory-BB,44,2,A,A,Sugar maple,19.2,Y,AS,Co-dominant,Large dead branches,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,3,A,N,Sugar maple,30.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,4,A,N,Sugar maple,25.4,N,AS,Dominant,Large dead branches/Vines in canopy,NA,NA,NA,Holes,1-10,1-10,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,5,A,N,Sugar maple,19.7,N,AS,Co-dominant,Vines in canopy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,6,A,N,Sugar maple,16.2,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,7,A,N,Sugar maple,16.5,N,AS,Co-dominant,Healthy,NA,4,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,8,B,N,Sugar maple,28.5,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,9,B,N,Sugar maple,12.8,N,AS,Intermediate,Healthy,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,10,B,N,Sugar maple,10.9,N,AS,Intermediate,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,Necrosis,1-10,1-10,NA,NA
+2022,8/9/2022,OakHickory-BB,44,11,B,N,Sugar maple,45.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,12,B,N,Sugar maple,22.8,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,13,C,N,Sugar maple,21.1,N,DS,Dominant,NA,NA,NA,1,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,14,C,N,Sugar maple,11.0,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,15,C,N,Sugar maple,29.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA
+2022,8/9/2022,OakHickory-BB,44,16,C,N,Sugar maple,19.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,17,D,N,Sugar maple,33.1,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,18,D,N,Sugar maple,15.6,N,AS,Co-dominant,Healthy,NA,NA,1,Leaf loss,10-50,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,19,D,N,Sugar maple,13.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,20,D,B,Sugar maple,10.5,Y,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/9/2022,OakHickory-BB,44,21,D,B,Sugar maple,17.2,Y,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/9/2022,OakHickory-BB,44,22,D,N,Sugar maple,26.0,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,2,Holes,1-10,1-10,Leaf loss,1-10,NA,Necrosis,1-10,1-10,NA,NA
+2022,8/10/2022,OakHickory-BB,45,1,A,N,Red pine,24.6,N,AS,Dominant,Large dead branches,NA,NA,2,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,2,A,N,White ash,14.6,N,AS,Co-dominant,Large dead branches/EAB,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,3,B,N,Sugar maple,18.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,4,B,N,Sugar maple,26.0,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,Chlorosis,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,5,B,N,Sugar maple,32.8,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/10/2022,OakHickory-BB,45,6,B,N,Sugar maple,20.1,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/10/2022,OakHickory-BB,45,7,B,N,Sugar maple,34.6,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/10/2022,OakHickory-BB,45,8,C,N,Black cherry,15.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,9,C,N,Red pine,31.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,90-100,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,10,C,N,American beech,27.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,11,C,N,Red pine,37.2,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,12,D,N,Sugar maple,13.8,N,AS,Co-dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/10/2022,OakHickory-BB,45,13,D,N,Sugar maple,11.1,N,AS,Intermediate,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/10/2022,OakHickory-BB,45,14,D,N,Sugar maple,10.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/10/2022,OakHickory-BB,45,15,D,N,Sugar maple,10.9,N,AS,Intermediate,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,1,A,N,American beech,12.5,N,AS,Intermediate,BBD/Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,2,A,N,Pignut hickory,10.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,3,A,N,Mockernut hickory,22.1,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,4,A,N,Red oak,13.8,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,5,A,N,White ash,15.6,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,6,A,N,White ash,11.9,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,7,A,A,Black cherry,21.5,Y,AS,Co-dominant,Large dead branches/Vines in canopy,NA,NA,NA,Leaf loss,1-10,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,8,A,A,Black cherry,22.4,Y,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,9,B,N,Pignut hickory,13.5,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,10,B,N,Sugar maple,11.1,N,AS,Intermediate,Vines in canopy,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,11,B,N,White ash,16.5,N,DL,NA,NA,3,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,12,C,N,Chestnut oak,21.2,N,AL,Co-dominant,Insect damage/Large dead branches,NA,NA,NA,Holes,1-10,1-10,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,13,C,N,Black oak,48.2,N,AS,Dominant,Large dead branches/Spongy moth,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,8/12/2022,OakHickory-BB,46,14,C,N,White ash,16.8,N,DS,NA,NA,NA,NA,NA,Chlorosis,1-10,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,15,D,N,Black oak,49.0,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,10-50,1-10,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/12/2022,OakHickory-BB,46,16,D,N,Sugar maple,14.6,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,8/12/2022,ChestnutOak-BB,47,1,A,N,Sugar maple,22.6,N,AS,Co-dominant,Large dead branches,4,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,2,A,N,Shagbark hickory,51.7,N,AS,Dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/12/2022,ChestnutOak-BB,47,3,A,N,American beech,10.1,N,AS,Intermediate,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,8/12/2022,ChestnutOak-BB,47,4,A,N,Sugar maple,31.3,N,AS,Dominant,Large dead branches,4,NA,NA,Leaf loss,50-90,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,5,B,N,Sugar maple,21.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,1-10,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,6,B,A,Mockernut hickory,37.1,Y,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,8/12/2022,ChestnutOak-BB,47,7,B,A,Mockernut hickory,40.8,Y,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,Chlorosis,10-50,10-50,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,8,C,N,Tulip poplar,28.2,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,9,C,N,American beech,12.2,N,AS,Intermediate,BBD,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/12/2022,ChestnutOak-BB,47,10,D,N,Sugar maple,43.7,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,8/12/2022,ChestnutOak-BB,47,11,D,N,Sugar maple,51.0,N,AS,Dominant,Cankers/Wounds/Large cavity,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,1,A,A,Eastern hemlock,22.0,Y,DB,NA,NA,NA,NA,NA,Holes,10-50,1-10,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,2,A,A,Eastern hemlock,30.9,Y,DS,NA,NA,NA,NA,NA,Holes,10-50,1-10,Chlorosis,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,3,B,N,Red maple,16.8,N,DB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/15/2022,HemlockHardwood-BB,48,4,B,N,Eastern hemlock,24.5,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/15/2022,HemlockHardwood-BB,48,5,B,N,Eastern hemlock,39.8,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,6,B,N,Eastern hemlock,29.7,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/15/2022,HemlockHardwood-BB,48,7,C,N,Eastern hemlock,16.1,N,AS,Intermediate,HWA/EHS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/15/2022,HemlockHardwood-BB,48,8,C,N,Red maple,11.2,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA
+2022,8/15/2022,HemlockHardwood-BB,48,9,C,N,Eastern hemlock,13.3,N,AS,Intermediate,HWA/EHS,NA,NA,NA,Holes,50-90,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,10,C,N,Red maple,30.6,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,1-10,Chlorosis,10-50,10-50,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,11,C,N,Chestnut oak,33.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,50-90,1-10,Necrosis,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,48,12,D,N,Sugar maple,32.8,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,1,A,N,Chestnut oak,48.1,Y,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,10-50,1-10,Leaf loss,10-50,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,2,A,N,Red maple,18.7,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,1-10,Leaf loss,50-90,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,3,B,N,Red maple,16.2,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Chlorosis,50-90,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,4,B,N,Red oak,70.4,N,AS,Dominant,Large dead branches,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,5,B,N,Black birch,12.8,N,AS,Intermediate,Cankers/Wounds,NA,NA,NA,Necrosis,50-90,10-50,Holes,10-50,1-10,Leaf loss,50-90,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,6,B,N,Red oak,50.3,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,7,C,N,Eastern hemlock,30.2,N,AS,Co-dominant,HWA/EHS,NA,NA,NA,Leaf loss,1-10,NA,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,8,C,N,Tulip poplar,31.2,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,9,C,N,Tulip poplar,17.9,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/15/2022,HemlockHardwood-BB,49,10,D,N,Eastern hemlock,27.0,N,DB,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,1,A,N,Red cedar,16.2,N,DS,NA,NA,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,2,A,N,Sugar maple,16.8,N,AS,Intermediate,Large dead branches,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,3,A,N,Sugar maple,21.0,N,AS,Co-dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,4,B,N,Black oak,58.7,N,AS,Dominant,Healthy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,5,B,N,Black oak,58.6,N,AS,Dominant,Large dead branches,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,6,B,N,Pignut hickory,22.0,N,AS,Co-dominant,Large dead branches/Spongy moth,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,7,B,N,Sugar maple,13.9,N,AS,Intermediate,Vines in canopy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,8,C,N,Sugar maple,27.4,N,AS,Dominant,Spongy moth,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,9,C,N,Red cedar,13.1,N,DS,NA,NA,NA,NA,NA,Leaf loss,1-10,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,10,C,N,Red cedar,14.0,N,DS,NA,NA,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,11,C,N,Black oak,32.5,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Chlorosis,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,12,C,N,Sassafras,25.8,N,AL,Co-dominant,Cankers/Wounds/Vines in canopy,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,13,C,N,Black cherry,32.5,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,14,C,N,Slippery elm,16.7,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/16/2022,OakHickory-BB,50,15,D,N,Red cedar,15.0,N,DS,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA
+2022,8/16/2022,OakHickory-BB,50,16,D,N,Slippery elm,32.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA
+2022,8/16/2022,OakHickory-BB,50,17,D,N,White ash,13.3,N,DS,NA,NA,NA,1,NA,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lingering ash?
+2022,8/16/2022,OakHickory-BB,50,18,D,N,Pyrus sp.,19.0,N,AS,Intermediate,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,1-10,10-50,Leaf loss,1-10,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,1,A,N,Sugar maple,11.1,N,AS,Intermediate,Large dead branches,NA,NA,2,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,2,A,N,Sugar maple,23.6,N,AS,Co-dominant,Healthy,NA,NA,NA,Holes,50-90,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,3,A,N,Sugar maple,22.9,N,AS,Dominant,Cankers/Wounds/Large dead branches,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,4,A,N,Sugar maple,24.5,N,AS,Dominant,Cankers/Wounds,NA,NA,2,Holes,10-50,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,5,A,N,Sugar maple,30.2,N,AS,Dominant,Healthy,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,6,B,N,Sugar maple,18.7,N,AS,Dominant,Healthy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,7,B,N,Sugar maple,19.2,Y,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Holes,10-50,10-50,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,8,B,N,Sugar maple,25.3,N,AS,Dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,9,B,N,Sugar maple,11.5,N,AS,Intermediate,Healthy,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,50-90,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,10,C,N,Sugar maple,16.2,N,AS,Co-dominant,Cankers/Wounds,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,11,C,N,Sugar maple,10.8,N,AS,Intermediate,Large dead branches,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,12,C,N,Sugar maple,28.5,N,AS,Dominant,Healthy,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,13,C,N,Sugar maple,17.6,N,AS,Intermediate,Healthy,NA,NA,NA,Chlorosis,50-90,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,14,C,N,Sugar maple,11.0,N,AS,Intermediate,Large dead branches,NA,NA,NA,Chlorosis,10-50,50-90,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,15,C,N,Sugar maple,22.8,N,AS,Dominant,Healthy,NA,NA,NA,Chlorosis,10-50,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,16,D,N,Unknown hardwood sp.,49.0,N,DS,NA,NA,NA,NA,NA,Holes,1-10,1-10,NA,NA,NA,NA,NA,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,17,D,N,White ash,64.5,N,DS,NA,NA,NA,NA,NA,Chlorosis,10-50,50-90,Holes,1-10,1-10,Leaf loss,1-10,NA,NA,NA
+2022,8/18/2022,OakHickory-BB,51,18,D,N,Sugar maple,19.7,N,AS,Co-dominant,Vines in canopy,NA,NA,NA,Leaf loss,50-90,NA,Holes,50-90,50-90,Chlorosis,50-90,50-90,NA,NA
+2022,8/29/2022,OakHickory-BB,52,1,A,N,American beech,12.9,N,AS,Co-dominant,BBD,NA,NA,NA,Holes,1-10,1-10,Chlorosis,50-90,50-90,Leaf loss,10-50,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,2,A,N,American beech,17.2,Y,AS,Co-dominant,BBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+2022,8/29/2022,OakHickory-BB,52,3,A,N,Sugar maple,14.5,N,AS,Co-dominant,Healthy,NA,NA,NA,Chlorosis,10-50,50-90,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,4,A,N,Tulip poplar,46.6,N,AS,Dominant,Cankers/Wounds,NA,NA,NA,Holes,1-10,1-10,Chlorosis,10-50,50-90,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,5,B,N,Sugar maple,18.8,N,AS,Co-dominant,Healthy,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,10-50,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,6,B,N,Hop hornbeam,12.6,N,AS,Intermediate,Large dead branches,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,7,B,N,Sugar maple,17.3,N,AS,Co-dominant,Large dead branches,NA,NA,NA,Chlorosis,50-90,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,8,C,N,White ash,18.5,N,DL,NA,NA,NA,NA,NA,Chlorosis,10-50,50-90,Holes,1-10,1-10,NA,NA,NA,NA,NA
+2022,8/29/2022,OakHickory-BB,52,9,C,N,Red maple,14.4,N,AS,Co-dominant,Healthy,NA,NA,NA,Leaf loss,10-50,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA
+2022,8/29/2022,OakHickory-BB,52,10,C,N,White ash,12.5,N,AS,Intermediate,Healthy,NA,NA,NA,Chlorosis,50-90,50-90,Holes,10-50,1-10,NA,NA,NA,NA,NA
