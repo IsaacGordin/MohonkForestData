@@ -1,0 +1,26 @@
+Column Name,Description
+Year,The year the plot was sampled.
+Date.Sampled,The date the plot was sampled.
+Plot.Type,"There are 5 types of plot: Hemlock, Ash, Burn, Random, Breeding Bird (BB). Plot type indicates what habitat plot is in: Eastern hemlock dominated, White ash dominated, Historic Prescribed Burn area, Randomly placed plots (forested), and Breeding Bird Survey research areas. "
+Plot,The unique number assigned to the plot.
+Tree_#,The unique number assigned to each tree within a plot. A tree has a DBH of ≥10.0 cm.
+Quarter,"The letter A, B, C, or D assigned to a quarter representing a cardinal direction of the plot. A: Northeast; B: Southeast; C: Southwest; D: Northwest."
+Fork,"Asking if the tree branches out from the main stem below DBH. If it does not ""N"" is recorded for No. If the tree does have a fork then each stem from the main stem is assigned the same letter. The first forked tree is assigned ""A"", the next forked tree is assigned ""B"", and so forth."
+Species,The common name of the vegetation species. 
+DBH,The diameter at breast height (1.37 meters) measurement in centimeters (cm).
+Unusual,"Asking if the tree has an irregular shape where the DBH is measured. If it does not ""N"" is recorded for No; if it does then ""Y"" is recorded for Yes. Irregular shapes can be swellings, bumps, depressions, curves, etc. "
+Status,"The status of the life (Alive or Dead) and growth of the tree (Standing, Leaning, Fallen, Broken). If the tree is Alive and Standing then ""AS"" is recorded; if the tree is Dead and Broken then ""DB"" is recorded; and so forth."
+Crown.Class,"The tree crown position in canopy relative to immediate neighbors. Categories include Dominant, Co-dominant, Intermediate, Sub-canopy, Gap-exploiter, and Open-grown. For definitions of crown classes and illustration see SOP 9 - Tree Measurements."
+Tree.Cond,"The condition of the bark of any live tree. If no negative tree condition is observed then ""Healthy"" is recorded. Categories for negative conditions include HWA (hemlock woolly adelgid), EHS (elongate hemlock scale), EAB (Emerald Ash Borer), Burl/Gall, Insect Damage, Large Dead Branches, Cankers/open wounds, Large Cavity, Beech Bark Disease (BBD) etc. For full list of potential tree conditions see SOP 9 -Tree Measurements. "
+HWA.Index,"The index code that describes the level of Hemlock Woolly Adelgid effects. 1) No sign of HWA; 2) HWA is present and <10% of foliage appears to be effected; 3) HWA is present and 10-25% of foliage have chlorosis and/or necrosis; 4) HWA severe impact and >25% of foliage has needle loss on fine twigs, chlorosis and/or necrosis."
+EAB. Index,"The index code that describes the level of Emerald Ash Borer effects. 1) No sign of EAB; 2) EAB is present and <10% of foliage appears to be effected; 3) EAB is present and 10-25% of foliage have chlorosis and/or necrosis; 4) EAB severe impact and >25% of foliage has leaf loss, chlorosis and/or necrosis."
+Foliage.Cond_1,"The condition of the foliage of any live tree. If no foliage condition is observed then ""None"" is recorded. Categories for negative conditions include Holes, Necrosis, Chlorosis, and Leaf Loss. Up to 3 foliage conditions are recorded.  "
+Total.Foliage%_1,"The estimated total percent of the foliage affected by the first condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%."
+Foliage.Cond%_1,"The estimated percent of the surface area of the foliage affected by the first condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%. If Leaf Loss is the foliage condition then ""NA"" is recorded as there is no foliage surface area. "
+Foliage.Cond_2,See description for Foliage.Cond_1 above. This is the second foliage condition recorded.
+Total.Foliage%_2,"The estimated total percent of the foliage affected by the second condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%."
+Foliage.Cond%_2,"The estimated percent of the surface area of the foliage affected by the second condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%. If Leaf Loss is the foliage condition then""NA"" is recorded as there is no foliage surface area. "
+Foliage.Cond_3,See description for Foliage.Cond_1 above. This is the third foliage condition recorded.
+Total.Foliage%_3,"The estimated total percent of the foliage affected by the third condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%."
+Foliage.Cond%_3,"The estimated percent of the surface area of the foliage affected by the third condition. Percent categories for estimation: 1-10, 10-50, 50-90, 90-100%. If Leaf Loss is the foliage condition then""NA"" is recorded as there is no foliage surface area. "
+Decay.Index,"The index code that describes any dead tree's stage of decay. Bark, Branches and Twigs, and Wood Condition are examined to determine index code. 1) Very little decay; 2) Little decay; 3) Moderate decay; 4) Advanced decay; 5) Very advance decay. For full definitions of decay levels see Appendix B. Field notes - Snag Decay Class Descriptions."

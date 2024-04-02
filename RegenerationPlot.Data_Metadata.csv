@@ -1,0 +1,12 @@
+Column Name,Description
+Year,The year the plot was sampled.
+Date.Sampled,The date the plot was sampled.
+Plot.Type,"There are 5 types of plot: Hemlock, Ash, Burn, Random, Breeding Bird (BB). Plot type indicates what habitat plot is in: Eastern hemlock dominated, White ash dominated, Historic Prescribed Burn area, Randomly placed plots (forested), and Breeding Bird Survey research areas. "
+Plot,The unique number assigned to the plot.
+Regen.Plot,"The name of the Regeneration Plot. There are three Regeneration Plots per Forest Plot; UR, UL, BC. Each Regeneration Plot has a 2 meter radius. For more details on Regeneration Plots see SOP 10 - Microplot."
+Species,The common name of the vegetation species.
+Category,"The category of vegetation being recorded. Categories include Seedlings, Saplings, and Shrubs. Seedings are defined as live juvenile trees that are ≥15 cm tall and <1 cm DBH; Saplings are defined as juvenile trees ≥ 1 cm and < 10 cm DBH. Shrubs are defined as woody, sub-canopy species (woody vines included) and ≥30 cm tall."
+Count,The number of individual stems of one species within a plot.
+Height.Class,"The height of each seedling species measured in cm within each plot. Categories of height are 15-30 cm, 30-100 cm, 100-150 cm, and >150 cm. Heights of saplings and shrubs were not measured so ""NA"" is recorded."
+Cover.%,"The estimated percent cover of each shrub species within each plot. Percent categories for estimation: <1, 1-5, 5-10, 10-25, 25-50, 50-75, 75-95, 95-100%. Percent cover of seedlings and saplings were not measured so ""NA"" is recorded."
+DBH.cm,"The DBH of each sapling species measured in cm within each plot. DBH of seedlings and shrubs were not measured so ""NA"" is recorded."
